@@ -4,6 +4,4 @@
 
 using namespace math;
 
-TEST(Math, Add2) {
-  EXPECT_EQ(Add2(2), 4);
-}
+TEST(Math, Add2) { EXPECT_EQ(Add2(2), 4); }
